@@ -1,4 +1,4 @@
-Production Line Simulation with CODESYS and Factory I/O
+### Production Line Simulation with CODESYS and Factory I/O
 This project demonstrates a complete simulation of a production line using CODESYS and Factory I/O. Using Ladder logic, I created an OPC UA server to interact with the 3D industrial simulation provided by Factory I/O.
 
 In the simulation, various components such as conveyors, robotic arms, and boxes were integrated, recreating a realistic production line environment. The control of these components was entirely implemented in Ladder logic, demonstrating the efficiency and flexibility of this language in industrial applications.
